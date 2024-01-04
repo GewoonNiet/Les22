@@ -1,0 +1,10 @@
+.container {
+    max-width: 576px;
+}
+
+.footer {
+    min-height: 200px;
+    background-color: #c0c0c0;
+    text-align: center;
+    padding: 20px;
+}
